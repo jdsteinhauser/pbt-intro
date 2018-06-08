@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{f2a71f9b-5d33-465a-a702-920d77279786}") = "algorithms", "algorithms\algorithms.fsproj", "{3EA41A5C-927D-47A0-9514-13A18312B333}"
+EndProject
+Project("{f2a71f9b-5d33-465a-a702-920d77279786}") = "test-runner", "test-runner\test-runner.fsproj", "{240E28C3-9C74-4C95-8D27-8FEB80284DBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3EA41A5C-927D-47A0-9514-13A18312B333}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EA41A5C-927D-47A0-9514-13A18312B333}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EA41A5C-927D-47A0-9514-13A18312B333}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EA41A5C-927D-47A0-9514-13A18312B333}.Release|Any CPU.Build.0 = Release|Any CPU
+		{240E28C3-9C74-4C95-8D27-8FEB80284DBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{240E28C3-9C74-4C95-8D27-8FEB80284DBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{240E28C3-9C74-4C95-8D27-8FEB80284DBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{240E28C3-9C74-4C95-8D27-8FEB80284DBF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
